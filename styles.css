@@ -1,0 +1,164 @@
+@import url("https://fonts.googleapis.com/css2?family=Merriweather+Sans:ital,wght@0,300..800;1,300..800&family=Merriweather:ital,wght@0,300;0,400;0,700;0,900;1,300;1,400;1,700;1,900&family=Ubuntu&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Merriweather+Sans:ital,wght@0,300..800;1,300..800&family=Merriweather:ital,wght@0,300;0,400;0,700;0,900;1,300;1,400;1,700;1,900&family=Ubuntu&family=Varta:wght@300..700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Karla:ital,wght@0,200..800;1,200..800&family=Merriweather+Sans:ital,wght@0,300..800;1,300..800&family=Merriweather:ital,wght@0,300;0,400;0,700;0,900;1,300;1,400;1,700;1,900&family=Ubuntu&family=Varta:wght@300..700&display=swap");
+
+html {
+	scroll-behavior: smooth;
+}
+body,
+html {
+	margin: 0;
+	padding: 0;
+	width: 100%;
+	height: 100%;
+}
+#antic-mobile-logo {
+	font-family: "Merriweather", serif;
+	font-style: normal;
+	line-height: 25px;
+	letter-spacing: 2px;
+	font-weight: 700;
+}
+#antic-logo {
+	font-family: "Merriweather", serif;
+	font-style: normal;
+	line-height: 25px;
+	letter-spacing: 2px;
+	margin-right: 32px;
+}
+#elegance {
+	font-family: "Merriweather", serif;
+	font-style: normal;
+	font-size: 50px !important;
+	line-height: 70px !important;
+	letter-spacing: -0.4px !important;
+	font-weight: 300;
+}
+#elegance-mobile {
+	font-family: "Merriweather", serif;
+	font-style: normal;
+	font-size: 35px !important;
+	line-height: 40px !important;
+	letter-spacing: -0.3px !important;
+	font-weight: 300;
+}
+#we-provide {
+	font-family: "Varta", serif;
+	font-weight: 300 !important;
+	font-size: 22px !important;
+	line-height: 30.8px;
+}
+#we-provide-mobile {
+	font-family: "Varta", serif;
+	font-weight: 400 !important;
+	font-size: 18px !important;
+	line-height: 25px;
+}
+#grid-title,
+#we-respect,
+#mobile-footer-title,
+th {
+	font-family: "Varta", serif;
+	font-weight: 600 !important;
+	font-size: 25px !important;
+	line-height: 30px;
+	letter-spacing: -0.2px;
+}
+#be-aware {
+	font-family: "Merriweather", serif;
+	font-style: normal;
+	font-size: 35px !important;
+	line-height: 40px !important;
+	letter-spacing: -0.3px !important;
+}
+#stay-informed,
+#nav-link,
+#mobile-footer-link {
+	font-family: "Varta", serif;
+	font-weight: 400 !important;
+	line-height: 25px;
+}
+#home-design {
+	font-family: "Varta", serif;
+	font-weight: 700 !important;
+	font-size: 14px !important;
+	line-height: 20px;
+	letter-spacing: 1px;
+}
+#we-stay {
+	font-family: "Merriweather", serif;
+	font-weight: 400;
+	font-size: 55px !important;
+	line-height: 60px !important;
+	letter-spacing: -0.6px !important;
+}
+#we-stay-mobile {
+	font-family: "Merriweather", serif;
+	font-weight: 400;
+	line-height: 40px !important;
+	letter-spacing: -0.3px !important;
+}
+#grid-text,
+#inspirations-text,
+#slide-count,
+td {
+	font-family: "Varta", serif;
+	font-weight: 400 !important;
+	line-height: 25px;
+	font-size: 18px;
+}
+#subscribe,
+#learn-more,
+#find-out-more {
+	font-family: "Karla", sans-serif;
+	font-weight: 700 !important;
+	font-size: 17px !important;
+	line-height: 25px;
+	letter-spacing: 0.3;
+}
+#inspirations {
+	font-family: "Merriweather", serif;
+	font-weight: 300;
+	line-height: 40px !important;
+	letter-spacing: -0.3px !important;
+}
+#antic-table {
+	font-family: "Merriweather", serif;
+	font-weight: 700;
+	font-size: 34px !important;
+	line-height: 25px !important;
+	letter-spacing: 2px !important;
+}
+#we-respect-text {
+	font-family: "Varta", serif;
+	font-weight: 400 !important;
+	font-size: 16px !important;
+	line-height: 25px;
+}
+#mobile-hero {
+	background-image: url("./assets/hero.png");
+	width: 100%;
+	min-height: 667px;
+}
+table {
+	border-collapse: collapse;
+	font-family: sans-serif;
+	font-size: 0.8rem;
+	text-align: left;
+}
+tbody:before {
+	content: "@";
+	display: block;
+	line-height: 22px;
+	text-indent: -99999px;
+}
+td,
+th {
+	padding: 0 15px;
+}
+th {
+	color: #534b42;
+}
+td {
+	color: #706458;
+}
